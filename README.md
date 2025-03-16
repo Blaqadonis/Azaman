@@ -1,6 +1,7 @@
 # Aza Man: AI-Powered Autonomous Financial Assistant
 
-![azaman2.png](azaman2.png)  
+![azaman2](https://github.com/user-attachments/assets/7b01c138-0b29-437c-82c2-4f9719aa0e0c)
+  
 ___________________________________________________________________________________________
 **[Live Aza Man clips]**
 ![Screen Recording - Mar 15, 2025-VEED](https://github.com/user-attachments/assets/6e996b8a-0f7a-40b0-b661-78904d982e14)
